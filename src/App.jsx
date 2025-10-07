@@ -5,11 +5,12 @@ import Breackfast from "./components/Breakfast/Breackfast";
 import Lunch from "./components/Lunch/Lunch";
 import Dinner from "./components/Dinner/Dinner";
 import AllProducts from "./components/AllProducts/AllProducts";
-import Products from "./components/Products/products";
+// import Products from "./components/Products/products";
 import Layout from "./components/Layout/Layout";
 import Category from "./components/Category/Category";
  import Contact from "./components/Contact/Contact";
 import About from "./components/About/About";
+import Products from "./components/Products/Products";
 
 const App = () => {
   let router = createBrowserRouter([
